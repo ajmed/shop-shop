@@ -10,5 +10,5 @@ Shop Shop is a store app that integrates the Stripe API to process payments (alt
  - `npm run develop` will start the development servers (frontend and backend) and watch for file changes in both
 
 # Deploy
- - git add, commit, push to main
+ - git add, commit, push to master
  - `npm run deploy`
